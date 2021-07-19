@@ -1,9 +1,9 @@
 
 .BG-1{
-    background-color: #fe7561 !important;
+    background-color:#afeee3!important;
 }
 .BG-2{
-    background-color:#fef355 !important;
+    background-color:#e6eff0!important;
     padding: 10;
 }
 
@@ -16,7 +16,7 @@
   margin-right: auto;
 }
 .Testimonial{
-  color:floralwhite;
+  color:black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-left:30px;
@@ -69,7 +69,7 @@ footer{
   position:static;
   bottom: 0;
   left: 0;
-  background:#fe7561 ;
+  background:teal;
 }
 footer .content{
   max-width: 1350px;
@@ -112,8 +112,8 @@ footer .content .right input[type="text"]{
   height: 45px;
   width: 100%;
   outline: none;
-  color: #d9d9d9;
-  background: #000;
+  color: black;
+  background:#e6eff0;
   border-radius: 5px;
   padding-left: 10px;
   font-size: 17px;
@@ -123,8 +123,8 @@ footer .content .right input[type="number"]{
   height: 45px;
   width: 100%;
   outline: none;
-  color: #d9d9d9;
-  background: #000;
+  color: black;
+  background: #e6eff0;
   border-radius: 5px;
   padding-left: 10px;
   font-size: 17px;
@@ -134,8 +134,8 @@ footer .content .right input[type="number"]{
 	height: 45px;
   width: 100%;
   outline: none;
-  color: #d9d9d9;
-  background: #000;
+  color: black;
+  background:#e6eff0;
   border-radius: 5px;
   padding-left: 10px;
   font-size: 17px;
@@ -145,7 +145,7 @@ footer .content .right input[type="submit"]{
   height: 42px;
   width: 100%;
   font-size: 18px;
-  color: #d9d9d9;
+  color: #e6eff0;
   background: #eb2f06;
   outline: none;
   border-radius: 5px;
@@ -227,7 +227,7 @@ footer .bottom a:hover{
   }
 }
 .DSBG-1{
-  background-color: #f3d250!important;
+  background-color:#F8EDE3!important;
 }
 .DSBG-2{
   background-color: teal;
