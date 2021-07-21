@@ -1,5 +1,6 @@
 # Donation-website
-Single page donation website which can be used for accepting donations. 
+Single page donation website which can be used for accepting donations.
+Sparks foundation project.
 
 ## Tech Stack
 - HTML, CSS, Bootstrap, JavaScript and Razorpay Payment Gateway.
